@@ -1,0 +1,127 @@
+PIANO_GRAND;0;Grand piano
+PIANO_BRIGHT;1;Bright piano
+PIANO_GRAND_ELECTRIC;2;Electric grand piano
+PIANO_HONKYTONK;3;Honky-Tonk (Ragtime) piano
+PIANO_ELECTRIC1;4;Electric piano 1
+PIANO_ELECTRIC2;5;Electric piano 2
+HARPSICHORD;6;Harpsichord
+CLAVINET;7;Clavinet
+CELESTA;8;Celesta
+GLOCKENSPIEL;9;Glockenspiel
+MUSICBOX;10;Music box
+VIBRAPHONE;11;Vibraphone
+MARIMBA;12;Marimba
+XYLOPHONE;13;Xylophone
+BELL_TUBULAR;14;Tubular bell
+DULCIMER;15;Dulcimer
+ORGAN_DRAWBAR;16;Drawbar organ
+ORGAN_PERCUSSIVE;17;Percussive drawbar organ
+ORGAN_ROCK;18;Rock (rotary) organ
+ORGAN_CHURCH;19;Church organ
+ORGAN_REED;20;Reed organ
+ACCORDION;21;Accordion
+HARMONICA;22;Harmonica
+ACCORDION_TANGO;23;Tango accordion
+GUITAR_NYLON;24;Nylon stringed guitar
+GUITAR_STEEL;25;Steel stringed guitar
+GUITAR_ELECTRIC_JAZZ;26;Electric guitar (Jazz)
+GUITAR_ELECTRIC_CLEAN;27;Electric guitar (Clean)
+GUITAR_ELECTRIC_MUTED;28;Electric guitar (Muted)
+GUITAR_ELECTRIC_OVERDRIVE;29;Electric guitar (Overdrive)
+GUITAR_ELECTRIC_DIST;30;Electric guitar (Distorted)
+GUITAR_HARMONICS;31;Electric guitar harmonics
+BASS_ACOUSTIC;32;Acoustic bass
+BASS_FINGER;33;Electric bass (Fingered)
+BASS_PICK;34;Electric bass (Picked)
+BASS_FRETLESS;35;Electric bass (Fretless)
+BASS_SLAP1;36;Electric bass (Slapping 1)
+BASS_SLAP2;37;Electric bass (Slapping 2)
+BASS_SYNTH1;38;Bass synthesizer 1
+BASS_SYNTH2;39;Bass synthesizer 1
+VIOLIN;40;Violin
+VIOLA;41;Viola
+CELLO;42;Cello
+CONTRABASS;43;Contrabass
+STRINGS_TREMOLO;44;Tremolo strings
+STRINGS_PIZZICATO;45;Pizzicato strings
+HARP;46;Harp
+TIMPANI;47;Timpani
+STRINGS1;48;Strings 1
+STRINGS2;49;Strings 2
+STRINGS_SYNTH1;50;String synthesizer
+STRINGS_SYNTH2;51;String synthesizer
+CHOIR_AAH;52;Choir aah
+CHOIR_OOH;53;Choir ooh
+CHOIR_SYNTH;54;Choir synthesizer
+ORCHESTRA_HIT;55;Orchestra hit
+TRUMPET;57;Trumpet
+TROMBONE;58;Trombone
+TUBA;59;Tuba
+TRUMPET_MUTED;60;Muted trumpet
+HORN_FRENCH;61;French horn
+BRASS;62;Brass section
+BRASS_SYNTH1;63;Brass synthesizer
+BRASS_SYNTH2;64;Brass synthesizer
+SAX_SOPRANO;65;Soprano saxophone
+SAX_ALTO;66;Alto saxophone
+SAX_TENOR;67;Tenor saxophone
+SAX_BARITONE;68;Baritone saxophone
+OBOE;69;Baritone saxophone
+HORN_ENGLISH;70;English horn
+BASSOON;71;Bassoon
+CLARINET;72;Clarinet
+FLUTE_PICCOLO;73;Piccolo flute
+FLUTE;74;Flute
+RECORER;75;Recorder
+FLUTE_PAN;76;Pan flute
+BOTTLE_BLOWN;77;Blown bottle
+SHAKUHACHI;78;Shakuhachi
+WHISTLE;79;Tin whistle
+OCARINA;80;Ocarina
+SYNTHLEAD_SQAUARE;81;Lead synthesizer (Square)
+SYNTHLEAD_SAWTOOTH;82;Lead synthesizer (Sawtooth)
+SYNTHLEAD_CALLIOPE;83;Lead synthesizer (Calliope)
+SYNTHLEAD_CHIFF;84;Lead synthesizer (Chiff)
+SYNTHLEAD_CHARANG;85;Lead synthesizer (Charang)
+SYNTHLEAD_VOICE;86;Lead synthesizer (Voice)
+SYNTHLEAD_FITHS;87;Lead synthesizer (Fiths)
+SYNTHLEAD_BASSLEAD;88;Lead synthesizer (Bass+Lead)
+SYNTHPAD_NEWAGE;89;Pad synthesizer (New Age)
+SYNTHPAD_POLYSYNTH;90;Pad synthesizer (Polysynth)
+SYNTHPAD_CHOIR;91;Pad synthesizer (Choir)
+SYNTHPAD_BOWED;92;Pad synthesizer (Bowd)
+SYNTHPAD_METALLIC;93;Pad synthesizer (Metallic)
+SYNTHPAD_HALO;94;Pad synthesizer (Halo)
+SYNTHPAD_SWEEP;95;Pad synthesizer (Sweep)
+FX_RAIN;96;Fx synthesizer (Rain)
+FX_SOUNDTRACK;97;Fx synthesizer (Soundtrack)
+FX_CRYSTAL;98;Fx synthesizer (Crystal)
+FX_ATMOSPHERE;99;Fx synthesizer (Atmosphere)
+FX_BRIGHTNESS;100;Fx synthesizer (Brightness)
+FX_GOBLINS;101;Fx synthesizer (Goblins)
+FX_ECHOES;102;Fx synthesizer (Echoes)
+FX_SCIFI;103;Fx synthesizer (Sci-fi)
+SITAR;104;Sitar
+BANJO;105;Banjo
+SHAMISEN;106;Shamisen
+KOTO;107;Koto
+KALIMBA;108;Kalimba
+BAGPIPE;109;Bagpipe
+FIDDLE;110;Fiddle
+SHANAI;111;Shanai
+BELL_TINKLE;112;Tinkle bell
+AGOGO;113;Agogo
+DRUMS_STEEL;114;Steel drums
+WOODBLOCKS;115;Woodblocks
+DRUMS_TAIKO;116;Taiko drums
+TOMS_MELODIC;117;Melodic toms
+DRUMS_SYNTH;118;Drum synthesizer
+CYMBAL_REVERSED;119;Reversed cymbal
+GUITAR_FRET;120;Guitar fret noise
+BREATH;121;Breath noise
+SEASHORE;122;Seashore
+BIRDTWEET;123;Bird tweet
+TELEPHONE;124;Telephone
+HELICOPTER;125;Helicopter
+APPLAUSE;126;Applause
+GUNSHOT;127;Gunshot
