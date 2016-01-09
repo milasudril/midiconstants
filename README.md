@@ -7,5 +7,8 @@ This repository contains all (General)MIDI constants in semicolon delimited text
  * `gm-programs.txt` contains names of all General MIDI programs
  * `gm-drumkit.txt` contains names of all General MIDI percussion instruments
 
-## Control codes
-Control codes less than 32 have a corresponding Least Significant Byte control code obtained by adding 32 to teh Most Significant Byte control code.
+## Usage
+See `example.sh`
+
+### Control codes
+Control codes less than 32 have a corresponding Least Significant Byte control code obtained by adding 32 to the Most Significant Byte control code.
