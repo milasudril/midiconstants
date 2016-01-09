@@ -156,6 +156,4 @@ cat << END >> __target_cpp/gmdrumkit.cpp
 	};
 END
 
-cd __target_cpp
-projinit name[midiconstants]
-wand profile[release]
+mv __target_cpp/* .
