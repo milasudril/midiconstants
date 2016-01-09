@@ -1,0 +1,55 @@
+BANK_SELECT;0;Bank select
+MODWHEEL;1;Modulation wheel
+BREATH;2;Breath controller
+FOOT;4;Foot controller
+PORTAMENTO_TIME;5;Portamento time
+DATA_ENTRY;6;Data entry
+CHANNEL_VOLUME;7;Channel volume
+BALANCE;8;Channel balance
+PAN;10;Channel pan
+EXPRESSION;11;Expression controller
+EFFECT1;12;Effect control 1
+EFFECT2;13;Effect control 2
+GENERAL_PURPOSE_1;16;General purpose 1
+GENERAL_PURPOSE_2;17;General purpose 2
+GENERAL_PURPOSE_3;18;General purpose 3
+GENERAL_PURPOSE_4;19;General purpose 4
+SUSTAIN;64;Sustain on/off
+PORTAMENTO_SWITCH;65;Portamento on/off
+SOSTENUTO;66;Sostenuto on/off
+SOFT_PEDAL;67;Soft pedal on/off
+LEGATO;68;Legato on/off
+HOLD;69;Hold on/off
+SOUND_1;70;Sound controller 1 (Variation)
+SOUND_2;71;Sound controller 2 (Timbre)
+SOUND_3;72;Sound controller 3 (Release)
+SOUND_4;73;Sound controller 4 (Attack time)
+SOUND_5;74;Sound controller 5 (Brightness)
+SOUND_6;75;Sound controller 6 (Decay time)
+SOUND_7;76;Sound controller 7 (Vibrato rate)
+SOUND_8;77;Sound controller 8 (Vibrato depth)
+SOUND_9;78;Sound controller 9 (Vibrato delay)
+SOUND_10;79;Sound controller 10 (Undefined)
+GENERAL_PURPOSE_5;80;General purpose 1
+GENERAL_PURPOSE_6;81;General purpose 2
+GENERAL_PURPOSE_7;82;General purpose 3
+GENERAL_PURPOSE_8;83;General purpose 4
+PORTAMENTO_CONTROL;84;Portamento control
+VELOCITY_PREFIX;88;High resolution velocity prefix
+EFFECT1_DEPTH;91;Effect 1 depth (Reverb send)
+EFFECT2_DEPTH;91;Effect 2 depth
+EFFECT3_DEPTH;91;Effect 3 depth (Chorus level)
+EFFECT4_DEPTH;91;Effect 4 depth
+EFFECT5_DEPTH;91;Effect 5 depth
+DATA_INCREMENT;96;Data entry +1
+DATA_DECREMENT;97;Data entry -1
+PARAMETER_NUMBER_REG;100;Registered parameter number LSB
+PARAMETER_NUMBER_REG;101;Registered parameter number MSB
+SOUND_OFF;120;All sound off
+CONTROLLERS_RESET;121;Reset all controllers
+LOCAL_SWITCH;122;Local control on/off
+NOTES_OFF;123;All notes off
+OMNI_OFF;124;Omnimode off
+OMNI_ON;125;Omnimode on
+MONO_MODE;126;Monophonic mode on
+POLY_MODE;127;Polyphonic mode on
