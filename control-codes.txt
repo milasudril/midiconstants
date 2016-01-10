@@ -43,8 +43,8 @@ EFFECT4_DEPTH;91;Effect 4 depth
 EFFECT5_DEPTH;91;Effect 5 depth
 DATA_INCREMENT;96;Data entry +1
 DATA_DECREMENT;97;Data entry -1
-PARAMETER_NUMBER_REG;100;Registered parameter number LSB
-PARAMETER_NUMBER_REG;101;Registered parameter number MSB
+PARAMETER_NUMBER_REG_LSB;100;Registered parameter number LSB
+PARAMETER_NUMBER_REG_MSB;101;Registered parameter number MSB
 SOUND_OFF;120;All sound off
 CONTROLLERS_RESET;121;Reset all controllers
 LOCAL_SWITCH;122;Local control on/off
