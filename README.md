@@ -1,4 +1,4 @@
-# midi-constants -- An unofficial MIDI SDK
+# midiconstants -- An unofficial MIDI SDK
 This repository contains all (General)MIDI constants in semicolon delimited text
 files.
 
