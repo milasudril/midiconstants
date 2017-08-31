@@ -2,7 +2,14 @@
 This repository contains all (General)MIDI constants in semicolon delimited text
 files.
 
-## Contnets
+## Legal information
+I do not claim any copyright on the data files found in this repository. However,
+for the code generator part, I have decided to use the 2-clause BSD license. The
+difference here is that I do not feel that I am the author of the data files
+(though I compiled it). However, I still wanted some attribution for the code
+generator and language bindings. If this is unclear, open an issue.
+
+## Contents
  * `status_codes.txt` contains all MIDI status codes
  * `control_codes.txt` contains all control codes for MIDI status 0xB0
  * `gm_programs.txt` contains names of all General MIDI programs
@@ -23,3 +30,5 @@ up in the directory `__targets`.
 Control codes less than 32 have a corresponding Least Significant Byte control
 code obtained by adding 32 to the Most Significant Byte control code. Therefore,
 these are not listed in `control_codes.txt`.
+
+
