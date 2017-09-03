@@ -30,10 +30,10 @@ SOUND_7;76;Sound controller 7 (Vibrato rate)
 SOUND_8;77;Sound controller 8 (Vibrato depth)
 SOUND_9;78;Sound controller 9 (Vibrato delay)
 SOUND_10;79;Sound controller 10 (Undefined)
-GENERAL_PURPOSE_5;80;General purpose 1
-GENERAL_PURPOSE_6;81;General purpose 2
-GENERAL_PURPOSE_7;82;General purpose 3
-GENERAL_PURPOSE_8;83;General purpose 4
+GENERAL_PURPOSE_5;80;General purpose 5
+GENERAL_PURPOSE_6;81;General purpose 6
+GENERAL_PURPOSE_7;82;General purpose 7
+GENERAL_PURPOSE_8;83;General purpose 8
 PORTAMENTO_CONTROL;84;Portamento control
 VELOCITY_PREFIX;88;High resolution velocity prefix
 EFFECT1_DEPTH;91;Effect 1 depth (Reverb send)
